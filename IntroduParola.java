@@ -1,7 +1,6 @@
 import java.util.Scanner;
 import java.lang.String;
 import java.lang.Character;
-
 public class IntroduParola
 {
     public static void main(String[] args)
