@@ -11,7 +11,6 @@ public class AparitieCuvant {
         for (String s : list) {
             list2.add(s.split(" "));
         }
-        ;
         for (String[] s : list2) {
             Map<String, Integer> wordCounts = new HashMap<String, Integer>();
 
